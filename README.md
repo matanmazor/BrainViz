@@ -1,19 +1,9 @@
-## shablona
+## BrainViz
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
 
-Shablona is a template project for small scientific python projects. The
-recommendations we make here follow the standards and conventions of much of
-the scientific Python eco-system. Following these standards and recommendations
-will make it easier for others to use your code, and can make it easier for you
-to port your code into other projects and collaborate with other users of this
-eco-system.
+This is a tool to create an interactive 3D brain in your browser. You can select points (or electrodes) on the brain to look at activity from those points. A dropdown menu will allow you to select the stimulus for which you are plotting a response.
 
-To use it as a template for your own project, click the green "use this template" 
-button at the top of the front page of this repo.
-
-First, let me explain all the different moving parts that make up a small
-scientific python project, and all the elements which allow us to effectively
-share it with others, test it, document it, and track its evolution.
+BrainViz uses the Shablona template.
 
 ### Organization of the  project
 
