@@ -2,3 +2,6 @@ numpy
 scipy
 matplotlib
 pandas
+wget
+neuropythy
+ipyvolume
