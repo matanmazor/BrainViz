@@ -6,4 +6,4 @@ auto_examples/
 gen_api/
 
 # Don't track content of these folders
-data/test_subj
+shablona/data/test_subj
