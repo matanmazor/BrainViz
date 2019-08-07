@@ -3,5 +3,5 @@ scipy
 matplotlib
 pandas
 wget
-neuropythy
+neuropythy>=0.10.1
 ipyvolume
