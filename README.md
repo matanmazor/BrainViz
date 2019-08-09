@@ -1,5 +1,6 @@
 ## BrainViz
-[![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
+[![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matanmazor/BrainViz/master?filepath=scripts%2FNeuropythyTransparentBrain.ipynb)
+
 
 This is a tool to create an interactive 3D brain in your browser. You can select points (or electrodes) on the brain to look at activity from those points. A dropdown menu will allow you to select the stimulus for which you are plotting a response.
 
