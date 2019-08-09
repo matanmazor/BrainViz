@@ -16,7 +16,7 @@ data['/ecog/condition2'] = numpy array of dim [elecs x time]
 data['/times'] = vector of times
 
 ## interactive visualization
-The electrodes of interest can be selected by mouse or dropdown menue. There is also a dropdown menue to select conditions. 
+The electrodes of interest can be selected by mouse or dropdown menu. There is also a dropdown menu to select conditions. 
 
 ## output
 3D brain with electrodes overlay. The color of selected electrodes changes. 
