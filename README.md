@@ -1,5 +1,5 @@
 ## BrainViz
-[![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matanmazor/BrainViz/master?filepath=scripts%2FNeuropythyTransparentBrain.ipynb)
+[![Build Status](https://travis-ci.org/matanmazor/BrainViz.svg?branch=master)](https://travis-ci.org/matanmazor/BrainViz) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matanmazor/BrainViz/master?filepath=scripts%2FNeuropythyTransparentBrain.ipynb)
 
 This project was created as part of [Neurohackademy 2019](https://github.com/neurohackademy/2019_projects). 
 
