@@ -1,6 +1,8 @@
 ## BrainViz
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matanmazor/BrainViz/master?filepath=scripts%2FNeuropythyTransparentBrain.ipynb)
 
+This project was created as part of [Neurohackademy 2019](https://github.com/neurohackademy/2019_projects). 
+
 **Contributors**: [Anna Jafarpour](https://github.com/annaja), [Matan Mazor](https://github.com/matanmazor), [Liberty Hamilton](https://github.com/libertyh). Thanks also to [Noah Benson](https://github.com/noahbenson), developer of [neuropythy](https://github.com/noahbenson/neuropythy). \
 **Description of project**: With BrainViz we can visualize neural activity in selected ECOG contacts.\
 **How to get involved**: Please get in touch with one of the contributors.
