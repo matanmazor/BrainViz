@@ -6,3 +6,4 @@ wget
 neuropythy>=0.10.1
 ipyvolume
 bqplot
+shapely
